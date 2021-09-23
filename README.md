@@ -13,7 +13,8 @@
 <h4>:books:	Currently Learning</h4>
 <ul>
   <li>JavaScript</li>
-  <li>.PHP</li>
+  <li>jQuery</li>
+  <li>PHP</li>
   <li>C#</li>
 </ul>
 
