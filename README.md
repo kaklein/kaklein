@@ -2,19 +2,18 @@
 
 <p>I'm a software development student excited about all things programming.</p>
 
-<h4>:muscle: Primary skills</h4>
+<h4>:muscle: Languages & Skills</h4>
 <ul>
   <li>Java</li>
   <li>Python</li>
-  <li>Web development with HTML/CSS</li>
+  <li>Web development with HTML/CSS/JavaScript</li>
   <li>MySQL</li>
+  <li>PHP</li>
  </ul>
 
 <h4>:books:	Currently Learning</h4>
 <ul>
-  <li>JavaScript</li>
   <li>jQuery</li>
-  <li>PHP</li>
   <li>C#</li>
 </ul>
 
