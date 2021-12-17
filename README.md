@@ -5,6 +5,7 @@
 <h4>:muscle: Languages & Skills</h4>
 <ul>
   <li>Java</li>
+  <ul><li>Jakarta EE</li></ul>
   <li>Python</li>
   <li>HTML/CSS</li>
   <li>JavaScript</li>
@@ -16,7 +17,6 @@
 <ul>
   <li>jQuery</li>
   <li>C#</li>
-  <li>JSP/JSF</li>
 </ul>
 
 <h4>:construction_worker_woman:	Currently working on</h4>
