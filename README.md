@@ -17,6 +17,7 @@
 
 <h4>:books:	Currently Learning</h4>
 <ul>
+  <li>React</li>
   <li>C++</li>
   <li>Unreal Engine</li>
 </ul>
