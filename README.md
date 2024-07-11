@@ -1,6 +1,6 @@
 <h2>Hi, I'm Katie!</h2>
 
-<p>I'm a software engineer working in FinTech and playing in game development.</p>
+<p>I'm a software engineer currently working in back-end development and playing in front-end and game development.</p>
 
 <h4>:muscle: Languages & Skills</h4>
 <ul>
