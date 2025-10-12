@@ -10,6 +10,7 @@
   <li>Event-driven design</li>
   <li>Java</li>
   <li>Python</li>
+  <li>React</li>
   <li>HTML/CSS</li>
   <li>MySQL</li>
   <li>PHP</li>
@@ -17,9 +18,9 @@
 
 <h4>:books:	Currently Learning</h4>
 <ul>
-  <li>React</li>
   <li>C++</li>
   <li>Unreal Engine</li>
+  <li>Terraform</li>
 </ul>
  
  <h4>:smile:	Hobbies</h4>
